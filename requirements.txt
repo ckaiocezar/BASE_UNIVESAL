@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+torch
+fastapi
+uvicorn
+mlflow
+dvc
+python-dotenv
